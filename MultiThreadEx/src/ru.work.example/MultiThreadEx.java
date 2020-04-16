@@ -1,5 +1,5 @@
 
-package multithreadex;
+package ru.work.example;
 
 
 public class MultiThreadEx {
