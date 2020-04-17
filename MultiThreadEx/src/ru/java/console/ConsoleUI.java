@@ -2,8 +2,8 @@
 package ru.java.console;
 
 /**
- *
- * @author Aleks
+ *  Класс описывает текстовый человеко-машинный интерфейс.
+ * @author java
  */
 public class ConsoleUI {
     
