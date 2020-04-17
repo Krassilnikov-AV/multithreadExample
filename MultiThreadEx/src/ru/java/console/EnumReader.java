@@ -7,7 +7,7 @@ package ru.java.console;
 
 /**
  *
- * @author Aleks
+ * @author java
  */
 public class EnumReader {
     
