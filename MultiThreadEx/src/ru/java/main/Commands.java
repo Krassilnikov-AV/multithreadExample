@@ -1,14 +1,16 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package ru.java.main;
 
 /**
- *
- * @author Aleks
+ * Обрабатываемые приложением команды.
  */
-public class Commands {
-    
+public enum Commands {
+    move,
+    copy,
+    exit,
+    delete,
+    create
+    /*
+     * TODO №8 К текущему списку команд, добавьте ещё две команды
+     */
 }
