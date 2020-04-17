@@ -6,8 +6,11 @@ import ru.java.actions.FileDeleteAction;
 import ru.java.actions.FileMoveAction;
 import ru.java.console.ConsoleUI;
 /**
+ *  "Программирование на платформе Java. Разработка
+ * многоуровневых приложений"
+ * <p>
+ * Тема: "Потоки исполнения (Threads) и многозадачность" 
  *
- * @author java
  */
 public class RunCommads extends ConsoleUI{
      public static void main(String[] args) {
