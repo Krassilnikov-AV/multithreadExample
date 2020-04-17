@@ -6,7 +6,6 @@ import java.io.IOException;
 /**
  * Класс описывает текстовый человеко-машинный интерфейс.
  * 
- * @author Daniel Alpatov <danial.alpatov@gmail.com>
  * @param <E> тип данных, описывающий возможные команды.
  *            Дожен быть перечислением
  */
